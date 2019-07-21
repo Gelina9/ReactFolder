@@ -1,0 +1,6 @@
+.Personbox{
+    width: 400px;
+    margin: 20px auto;
+    padding: 10px 0;
+    box-shadow: 0 0 5px red;
+}
